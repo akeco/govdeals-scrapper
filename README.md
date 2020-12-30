@@ -8,10 +8,12 @@ Create <b>govdeals</b> databse
 
 ### Node App Setup
 `npm install`
+`yarn`
 
 Run <b>server app</b> on PORT 3000
 
 `npm start`
+`yarn start`
 
 #### Save govdeal product for bidding
 
